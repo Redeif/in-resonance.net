@@ -7,7 +7,7 @@ const Header = () => {
         <a href='/'><img className='headerLogo' src={back_logo} alt='In Resonance Logo'></img></a>
         <div className='links'>
             <h2>
-            <a href='/'>Homepage</a> | <a href='/about'>About me</a> | <a href='/contact'>Contact</a> | <a href='/impressum'>Imprint</a>
+            <a href='in-resonance.net/'>Homepage</a> | <a href='in-resonance.net/about'>About me</a> | <a href='in-resonance.net/contact'>Contact</a> | <a href='in-resonance.net/impressum'>Imprint</a>
             </h2>
         </div>      
     </div>
