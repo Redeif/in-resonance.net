@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/in-resonance.net/static/css/main.1d9331aa.css",
-    "main.js": "/in-resonance.net/static/js/main.2c3210fa.js",
+    "main.js": "/in-resonance.net/static/js/main.6381226c.js",
     "static/js/453.293ad531.chunk.js": "/in-resonance.net/static/js/453.293ad531.chunk.js",
     "static/media/Instagram_Glyph_Gradient.png": "/in-resonance.net/static/media/Instagram_Glyph_Gradient.469cb83ec463191dffdf.png",
     "static/media/InResonance_Logo_Schwarz.svg": "/in-resonance.net/static/media/InResonance_Logo_Schwarz.72c450a4cbc1ecf5407babfd1f006621.svg",
     "index.html": "/in-resonance.net/index.html",
     "main.1d9331aa.css.map": "/in-resonance.net/static/css/main.1d9331aa.css.map",
-    "main.2c3210fa.js.map": "/in-resonance.net/static/js/main.2c3210fa.js.map",
+    "main.6381226c.js.map": "/in-resonance.net/static/js/main.6381226c.js.map",
     "453.293ad531.chunk.js.map": "/in-resonance.net/static/js/453.293ad531.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1d9331aa.css",
-    "static/js/main.2c3210fa.js"
+    "static/js/main.6381226c.js"
   ]
 }
