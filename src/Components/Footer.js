@@ -5,8 +5,8 @@ import instagram_logo from '../img/Instagram_Glyph_Gradient.png'
 const Footer = () => {
   return (
     <div className='footer'>
-        <div>
-            <a href='/'>Homepage</a>    
+        <div>  
+            <Link to='/'>Homepage</Link>
         </div>
         <div>
             <Link to='/impressum'>Impressum</Link>

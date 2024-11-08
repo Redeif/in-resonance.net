@@ -3,7 +3,19 @@ p {
 }
 
 
+.App {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.main {
+  flex: 1 0 auto;
+}
+
+
 .header{
+  flex-shrink: 0;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -13,13 +25,11 @@ p {
 }
 
 .footer{
+  flex-shrink: 0;
   width: 100%;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  position: fixed;
-  left: 0;
-  bottom: 0;
   background-color: white;
 }
 
