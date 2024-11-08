@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom';
 import instagram_logo from '../img/Instagram_Glyph_Gradient.png'
 
 const Footer = () => {
