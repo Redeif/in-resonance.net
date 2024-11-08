@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/in-resonance.net/static/css/main.1d9331aa.css",
-    "main.js": "/in-resonance.net/static/js/main.456006f6.js",
-    "static/js/453.293ad531.chunk.js": "/in-resonance.net/static/js/453.293ad531.chunk.js",
-    "static/media/Instagram_Glyph_Gradient.png": "/in-resonance.net/static/media/Instagram_Glyph_Gradient.469cb83ec463191dffdf.png",
-    "static/media/InResonance_Logo_Schwarz.svg": "/in-resonance.net/static/media/InResonance_Logo_Schwarz.72c450a4cbc1ecf5407babfd1f006621.svg",
-    "index.html": "/in-resonance.net/index.html",
-    "main.1d9331aa.css.map": "/in-resonance.net/static/css/main.1d9331aa.css.map",
-    "main.456006f6.js.map": "/in-resonance.net/static/js/main.456006f6.js.map",
-    "453.293ad531.chunk.js.map": "/in-resonance.net/static/js/453.293ad531.chunk.js.map"
+    "main.css": "/static/css/main.1d9331aa.css",
+    "main.js": "/static/js/main.dacb24dc.js",
+    "static/js/453.293ad531.chunk.js": "/static/js/453.293ad531.chunk.js",
+    "static/media/Instagram_Glyph_Gradient.png": "/static/media/Instagram_Glyph_Gradient.469cb83ec463191dffdf.png",
+    "static/media/InResonance_Logo_Schwarz.svg": "/static/media/InResonance_Logo_Schwarz.72c450a4cbc1ecf5407babfd1f006621.svg",
+    "index.html": "/index.html",
+    "main.1d9331aa.css.map": "/static/css/main.1d9331aa.css.map",
+    "main.dacb24dc.js.map": "/static/js/main.dacb24dc.js.map",
+    "453.293ad531.chunk.js.map": "/static/js/453.293ad531.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1d9331aa.css",
-    "static/js/main.456006f6.js"
+    "static/js/main.dacb24dc.js"
   ]
 }
