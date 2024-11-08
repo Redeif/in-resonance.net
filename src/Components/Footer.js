@@ -8,7 +8,7 @@ const Footer = () => {
             <a href='/'>Homepage</a>    
         </div>
         <div>
-            <a href='/impressum'>Impressum</a>
+            <Link to='/impressum'>Impressum</Link>
         </div>
         <div>
             <a href='https://www.instagram.com/freider.photography/'><img alt='Instagram Logo' src={instagram_logo}></img></a>
