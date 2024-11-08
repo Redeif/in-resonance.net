@@ -13,10 +13,10 @@ function App() {
       <div className="App">
         <Header />
         <Routes>
-          <Route path='/' element={<Homepage />}></Route>
-          <Route path='/impressum' element={<Impressum />}></Route>
-          <Route path='/about-me' element={<About/>}></Route>
-          <Route path='/contact' element={<Contact/>}></Route>
+          <Route path='in-resonance.net/' element={<Homepage />}></Route>
+          <Route path='in-resonance.net/impressum' element={<Impressum />}></Route>
+          <Route path='in-resonance.net/about-me' element={<About/>}></Route>
+          <Route path='in-resonance.net/contact' element={<Contact/>}></Route>
         </Routes>
         <Footer/>
         
