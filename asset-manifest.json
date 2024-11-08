@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.539b7b09.css",
-    "main.js": "/static/js/main.a1fb2166.js",
+    "main.css": "/static/css/main.1b19254d.css",
+    "main.js": "/static/js/main.0cf1b50d.js",
     "static/js/453.293ad531.chunk.js": "/static/js/453.293ad531.chunk.js",
     "static/media/Instagram_Glyph_Gradient.png": "/static/media/Instagram_Glyph_Gradient.469cb83ec463191dffdf.png",
     "static/media/InResonance_Logo_Schwarz.svg": "/static/media/InResonance_Logo_Schwarz.72c450a4cbc1ecf5407babfd1f006621.svg",
     "index.html": "/index.html",
-    "main.539b7b09.css.map": "/static/css/main.539b7b09.css.map",
-    "main.a1fb2166.js.map": "/static/js/main.a1fb2166.js.map",
+    "main.1b19254d.css.map": "/static/css/main.1b19254d.css.map",
+    "main.0cf1b50d.js.map": "/static/js/main.0cf1b50d.js.map",
     "453.293ad531.chunk.js.map": "/static/js/453.293ad531.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.539b7b09.css",
-    "static/js/main.a1fb2166.js"
+    "static/css/main.1b19254d.css",
+    "static/js/main.0cf1b50d.js"
   ]
 }
