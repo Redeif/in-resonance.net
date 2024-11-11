@@ -7,8 +7,8 @@ const Impressum = () => {
         <h1>Impressum</h1>
         <div>
           <h2>Kontakt</h2>
-          <p>Email info@in-resonance.net</p>
-          <p>Telefon 015256368386</p>
+          <p>E-Mail - frieder.seibold@in-resonance.net</p>
+          <p>Telefon - 015256368386</p>
         </div>
         <div >
           <h2>Adresse</h2>
